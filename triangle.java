@@ -13,6 +13,6 @@ class AreaOfTriangle
  
                   //Area = (width*height)/2
       double area=(b*h)/2;
-      System.out.println("Area of Triangle is: " + area);      
+      System.out.println("Area of Triangle is the final result: " + area);      
    }
 }
