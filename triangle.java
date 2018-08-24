@@ -8,7 +8,7 @@ class AreaOfTriangle
          System.out.println("Enter the width of the Triangle:");
          double b= s.nextDouble();
  
-         System.out.println("Enter the height of the Triangle:");
+         System.out.println("Enter the height of the as Triangle:");
           double h= s.nextDouble();
                //Area = (width*height)/2
       double area=(b*h)/2;
